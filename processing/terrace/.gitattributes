@@ -1,0 +1,15 @@
+* text=auto
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.pde text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# These files are binary and should be left untouched
+*.png binary
+*.gif binary
+*.vlw binary
+*.ogg binary
+*.wav binary
