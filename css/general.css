@@ -91,6 +91,6 @@ body { background:#E0E0E0; }
 .terrace-canvas-wrapper { width:600px; height:600px; background:#444; margin:0 auto 20px auto; }
 .performance-warning { color:#444; font-size:12px; text-align:center; }
 
-.contact-type { float:left; clear:left; width:120px; text-align:right; font-weight:bold; color:green; }
+.contact-type { float:left; clear:left; width:140px; text-align:right; font-weight:bold; color:green; }
 .contact-type:after { content:":"; }
-.contact-info { margin:0 0 2px 130px; }
+.contact-info { margin:0 0 2px 150px; }
